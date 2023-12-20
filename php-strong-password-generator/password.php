@@ -19,7 +19,7 @@
     }
     return $password;
 }
-    echo $password;
+    echo "la tua password e : " .$password;
  ?>
  
 </body>
